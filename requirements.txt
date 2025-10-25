@@ -1,0 +1,6 @@
+# Peer-to-Peer File Sharing System dependencies
+# Built-in Python libraries, no external install required
+socket
+threading
+os
+json
